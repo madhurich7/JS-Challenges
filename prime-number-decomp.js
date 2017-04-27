@@ -1,5 +1,6 @@
 /*
 
+https://www.codewars.com/kata/prime-number-decompositions/train/javascript/58c9912026d93a6be300007f
 You have to code a function getAllPrimeFactors wich take an integer as parameter and return an array containing its prime decomposition by ascending factors, if a factors appears multiple time in the decomposition it should appear as many time in the array.
 
 exemple: getAllPrimeFactors(100) returns [2,2,5,5] in this order.
